@@ -1,0 +1,33 @@
+/*
+* CSS welke op elke pagina van toepassing is
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat'); 
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #363636;
+    font-size: 26px;
+    padding: 6px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin: 2px;
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.download {
+    color: #000000;
+}
